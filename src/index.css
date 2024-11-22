@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.fotoku{
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.8));
+}
+
+
+
+
+a:hover{
+  color: #00FF00;
+}
+
+.custom-none li {
+  list-style-type: none;
+  position: relative;
+  padding-left: 30px; 
+}
+
+.custom-none li::before {
+  content: '\2605'; 
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #00FF00; 
+  font-size: 1.5em; 
+  left: -20px;
+}
+
+span{
+    color: orangered;
+}
+
+img{
+  background: transparent;
+}
+/* Kontainer untuk gambar yang bergerak */
+.animate-marquee {
+  display: flex;           /* Menyusun gambar secara horizontal */
+  overflow: hidden;        /* Menyembunyikan gambar yang keluar dari sisi kiri */
+  position: relative;
+}
+
+/* Keyframes untuk animasi marquee */
+@keyframes marquee {
+  0% {
+    transform: translateX(100%); /* Mulai dari sisi kanan */
+  }
+  100% {
+    transform: translateX(-1000%); /* Bergerak ke kiri */
+  }
+}
+
+.animate-marquee img {
+  animation: marquee 20s linear infinite;
+  flex-shrink: 0;   
+  width: 10rem;     
+  height: 10rem;     
+  object-fit: contain;
+}
+
+
+.animate-marquee:hover img{
+  animation-play-state: paused;
+}
+
+.skill{
+  filter: grayscale(100%);
+  cursor: pointer;
+}
+
+.skill:hover{
+  filter: grayscale(0);
+}
+
+.font-medium li a:active{
+  color: orangered;
+
+}
+
+.logo {
+  width: 5rem; /* Menentukan ukuran lebar logo */
+  height: 5rem; /* Menentukan ukuran tinggi logo */
+  object-fit: contain; /* Atau bisa menggunakan cover, sesuai kebutuhan */
+  filter:drop-shadow( 0 4px 6px rgb(16, 16, 251)); /* Menambahkan bayangan pada gambar */
+  cursor: pointer; /* Menambahkan pointer saat hover */
+}

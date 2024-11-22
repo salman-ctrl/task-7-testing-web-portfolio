@@ -1,0 +1,142 @@
+[
+    {
+        "Sertifikat": [
+            {
+                "title": "Javascript",
+                "company": "BWA",
+                "date": "22-06-2024",
+                "img": "/assets/sertifikat/AJAXAPI.png"
+            },
+            {
+                "title": "Bootstrap",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/bootstrap.png"
+            },
+            {
+                "title": "Dom JavaScript",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/dom.png"
+            },
+            {
+                "title": "Text-Editor",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/texteditor.png"
+            },
+            {
+                "title": "Fundamental Frontend",
+                "company": "Coding Studio",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/fundamental.png"
+            },
+            {
+                "title": "Dasar Pemrograman",
+                "company": "Dicoding",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/dasarpemograman.png"
+            },
+            {
+                "title": "Cloud Computing",
+                "company": "Alibaba Cloud",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/Alibaba cloud sertification.jpg"
+            },
+            {
+                "title": "HTML",
+                "company": "Great Learning",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/html.png"
+            },
+            {
+                "title": "JavaScript",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/javascript.png"
+            },
+            {
+                "title": "HTML",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/javascript.png"
+            },
+            {
+                "title": "HTML",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/javascript.png"
+            },
+            {
+                "title": "HTML",
+                "company": "Code Politan",
+                "date": "12-06-2024",
+                "img": "/assets/sertifikat/javascript.png"
+            }
+        ],
+        "Showcase": [
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            },
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            },
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            },
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            },
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            },
+            {
+                "title": "Website Asrama",
+                "deskripsi": "membangun website interaktif untuk asrama putra",
+                "img": ""
+            }
+        ],
+        "Skill": [
+            {
+                "img": "/assets/HTML.png"
+            },
+            {
+                "img": "/assets/CSS.png"
+            },
+            {
+                "img": "/assets/javascript.png"
+            },
+            {
+                "img": "/assets/nodejs.png"
+            },
+            {
+                "img": "/assets/bootstrap.png"
+            },
+            {
+                "img": "/assets/react.png"
+            },
+            {
+                "img": "/assets/tailwind.png"
+            },
+            {
+                "img": "/assets/typescript.png"
+            },
+            {
+                "img": "/assets/GitHub-logo.png"
+            },
+            {
+                "img": "/assets/vercel.png"
+            }
+        ]
+    }
+]

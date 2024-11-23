@@ -19,7 +19,7 @@ const Navbar = () => {
 
     return (
         <>
-            <nav className="w-full h-20 flex flex-row pt-20 px-16 justify-between items-center text-white text-2xl z-20">
+            <nav className="w-full h-20 flex flex-row pt-20 px-16 justify-between items-center text-white text-2xl z-50">
                 <div className="flex items-center space-x-12 justify-evenly w-[70vh] h-20">
                     <div>
                         <img src={logo} alt="logo" onClick={handleHome} className="logo h-20 w-20 cursor-pointer " />
@@ -37,7 +37,7 @@ const Navbar = () => {
                     </div>
                 </div>
 
-                <button onClick={handleHire} className="h-14 px-8 bg-white shadow-md shadow-sky-200 text-black rounded-lg hover:bg-gray-700 ">
+                <button onClick={handleHire} className="h-14 px-8 bg-white shadow-md shadow-sky-200 text-black transition duration-500 rounded-lg hover:bg-gray-700 shadow-gray-500 shadow-md hover:scale-105 ">
                     Hire Me!
                 </button>
 

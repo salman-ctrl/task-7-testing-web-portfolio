@@ -6,7 +6,7 @@
 
 
 .fotoku{
-    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.8));
+    filter: drop-shadow(4px 2px 20px rgb(80, 121, 80));
 }
 
 
@@ -63,8 +63,6 @@ img{
   height: 10rem;     
   object-fit: contain;
 }
-
-
 .animate-marquee:hover img{
   animation-play-state: paused;
 }
@@ -72,10 +70,12 @@ img{
 .skill{
   filter: grayscale(100%);
   cursor: pointer;
+  transition: transform 0.3s ease, filter 0.3s ease;
 }
 
 .skill:hover{
   filter: grayscale(0);
+  transform: scale(1.2);
 }
 
 .font-medium li a:active{
@@ -89,4 +89,9 @@ img{
   object-fit: contain; /* Atau bisa menggunakan cover, sesuai kebutuhan */
   filter:drop-shadow( 0 4px 6px rgb(16, 16, 251)); /* Menambahkan bayangan pada gambar */
   cursor: pointer; /* Menambahkan pointer saat hover */
+}
+
+.card-container {
+  max-height: 1220px;
+  overflow: hidden;
 }

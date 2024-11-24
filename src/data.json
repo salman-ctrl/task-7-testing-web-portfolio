@@ -5,37 +5,43 @@
                 "title": "Javascript",
                 "company": "BWA",
                 "date": "22-06-2024",
-                "img": "/assets/sertifikat/AJAXAPI.png"
+                "img": "/assets/sertifikat/AJAXAPI.png",
+                "tags": "javascript"
             },
             {
                 "title": "Bootstrap",
                 "company": "Code Politan",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/bootstrap.png"
+                "img": "/assets/sertifikat/bootstrap.png",
+                "tags": "css"
             },
             {
                 "title": "Dom JavaScript",
                 "company": "Code Politan",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/dom.png"
+                "img": "/assets/sertifikat/dom.png",
+                "tags": "javascript"
             },
             {
                 "title": "Text-Editor",
                 "company": "Code Politan",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/texteditor.png"
+                "img": "/assets/sertifikat/texteditor.png",
+                "tags": "other"
             },
             {
                 "title": "Fundamental Frontend",
                 "company": "Coding Studio",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/fundamental.png"
+                "img": "/assets/sertifikat/fundamental.png",
+                "tags": "other"
             },
             {
                 "title": "Dasar Pemrograman",
                 "company": "Dicoding",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/dasarpemograman.png"
+                "img": "/assets/sertifikat/dasarpemograman.png",
+                "tags": "other"
             },
             {
                 "title": "Cloud Computing",
@@ -47,19 +53,22 @@
                 "title": "HTML",
                 "company": "Great Learning",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/html.png"
+                "img": "/assets/sertifikat/html.png",
+                "tags": "html"
             },
             {
                 "title": "JavaScript",
                 "company": "Code Politan",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/javascript.png"
+                "img": "/assets/sertifikat/javascript.png",
+                "tags": "javascript"
             },
             {
                 "title": "HTML",
                 "company": "Code Politan",
                 "date": "12-06-2024",
-                "img": "/assets/sertifikat/javascript.png"
+                "img": "/assets/sertifikat/javascript.png",
+                "tags": "html"
             },
             {
                 "title": "HTML",

@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+![Gambar WhatsApp 2024-12-02 pukul 21 13 49_11e9a36e](https://github.com/user-attachments/assets/6c063cd1-f3dd-4cab-8503-f39b1e3390d1)# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -24,6 +24,20 @@ export default tseslint.config({
   },
 })
 ```
+
+> my-portfolio@0.0.0 build
+> tsc -b && vite build
+
+vite v5.4.11 building for production...
+✓ 1600 modules transformed.
+dist/index.html                        0.48 kB │ gzip:  0.31 kB
+dist/assets/background-8tkquTLi.jpg   29.12 kB
+dist/assets/logo-Dc4_sd_s.png         70.90 kB
+dist/assets/foto ku-CUOBc0bw.png     210.87 kB
+dist/assets/index-DWXlO3yL.css        15.27 kB │ gzip:  3.80 kB
+dist/assets/index-OMrUVQ43.js        231.75 kB │ gzip: 74.60 kB
+✓ built in 14.46s
+
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
 - Optionally add `...tseslint.configs.stylisticTypeChecked`
